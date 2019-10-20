@@ -1,0 +1,5 @@
+0O que outras pessoas estão dizendo
+git remote add origin https://github.com/megabox123/megabox123.git
+ git push -u origin master
+ git remote add origin https://github.com/megabox123/megabox123.git
+ git push -u origin master
